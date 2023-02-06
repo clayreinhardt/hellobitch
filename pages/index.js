@@ -9,7 +9,6 @@ export default function Home() {
      <h3>if you don't believe me...</h3>
      <hr />
      <h4>ask your mom LOL</h4>
-     <hr />
     </div>
   )
 }
